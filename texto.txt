@@ -1,0 +1,2 @@
+documento de texto 
+introduccion a la estructura de datos y algoritmos en python
